@@ -1,1 +1,1 @@
-# SpringEmailSenderExampleApplication
+# Spring Email Sender Example Application
